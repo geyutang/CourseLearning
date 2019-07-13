@@ -6,3 +6,6 @@ Course Learning
 ## update
 7/12 2019 
 add 矩阵论 
+
+7/13 2019 
+add online method for ml
